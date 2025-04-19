@@ -1,0 +1,46 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs
+*.log
+
+# Virtual environments
+venv/
+.env/
+.envrc
+
+# MacOS
+.DS_Store
+
+# Jupyter Notebooks (checkpoints)
+.ipynb_checkpoints/
+
+# FAISS index files (caso você salve)
+*.faiss
+*.index
+
+# Token/API Key files (evite subir por engano)
+*.key
+*.token
+*.secret
+
+# IDEs
+.vscode/
+.idea/
+
+# Streamlit (se usar depois)
+.streamlit/
+
+# Arquivos temporários
+*.bak
+*.tmp
+*.swp
+*.~*
+
+# Outputs gerados
+*.png
+*.jpg
+*.pdf
+README.md

@@ -1,0 +1,4 @@
+A AWS foi lançada em 2006 como uma plataforma de serviços em nuvem.
+O serviço EC2 permite criar servidores virtuais sob demanda.
+O S3 é usado para armazenamento de objetos com alta durabilidade.
+IAM é o serviço de identidade e controle de acesso da AWS.
